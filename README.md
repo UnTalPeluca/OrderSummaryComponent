@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://untalpeluca.github.io/Order-Summary-Component/)
+- Live Site URL: [GitHub Page](https://untalpeluca.github.io/Order-Summary-Component/)
 
 ## Built with
 
