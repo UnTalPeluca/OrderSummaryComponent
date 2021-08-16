@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-html-css-XkLYyHr_C)
-- Live Site URL: [GitHub Page](https://untalpeluca.github.io/Order-Summary-Component/)
+- Live Site URL: [GitHub Page](https://untalpeluca.github.io/OrderSummaryComponent/)
 
 ## Built with
 
